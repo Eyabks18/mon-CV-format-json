@@ -1,0 +1,15 @@
+{
+    "CV":{
+        "Nom":"BOUKHRISS",
+        "Prenom": "Eya",
+        "Age":"29",
+        "Formation":{
+            "nom":"Testeur Logiciel",
+            "ecole":"IT-Akademy",
+            "dateDebut":"12-05-2025",
+            "dateFin":"26-01-2026"
+
+        }
+    }
+
+}
